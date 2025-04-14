@@ -3,7 +3,6 @@
 ## Basic Git Workflow
 
 ```sh
-
 git init #Initialize the Git repository
 git remote add origin your-repository-url  #Add your remote repository (assuming it already exists)
 Pull from the remote repository # (if it already contains files)
