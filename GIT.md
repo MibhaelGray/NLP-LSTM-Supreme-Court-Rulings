@@ -3,9 +3,15 @@
 ## Basic Git Workflow
 
 ```sh
+
+git init #Initialize the Git repository
+git remote add origin your-repository-url  #Add your remote repository (assuming it already exists)
+Pull from the remote repository # (if it already contains files)
+git pull origin main
 git add .         # Stage all changes
 git commit -m "Your commit message"  # Commit staged changes with a message
 git push origin main  # Push changes to GitHub (replace 'main' with your branch name if different)
+
 ```
 
 ## Steps to Exit Vim and Save Your Commit
