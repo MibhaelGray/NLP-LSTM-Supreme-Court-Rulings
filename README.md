@@ -7,3 +7,5 @@ It has extreme solar irradiance
 It contains the majority of utility-scale solar installations
 It experiences the most significant transmission constraints
 It has the most pronounced price effects due to renewable generation
+
+
